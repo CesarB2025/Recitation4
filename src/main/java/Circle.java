@@ -94,7 +94,6 @@ public class Circle
     {
         this.radius = radius;
     }
-
     /**
      * Sets the x coordinate of this circle.
      *
